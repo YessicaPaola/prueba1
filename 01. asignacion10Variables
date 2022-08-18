@@ -1,0 +1,35 @@
+Algoritmo asignacion10Variables
+	Escribir "Introduce el valor de A: " 
+	Leer A
+	Escribir "Introduce el valor de B: "
+	Leer B
+	Escribir "Introduce el valor de C: "
+	Leer C
+	Escribir "Introduce el valor de D: "
+	Leer D
+	Escribir "Introduce el valor de E: "
+	Leer E
+	Escribir "Introduce el valor de F: "
+	Leer F
+	Escribir "Introduce el valor de G: "
+	Leer G
+	Escribir "Introduce el valor de H: "
+	Leer H
+	Escribir "Introduce el valor de I: "
+	Leer I
+	Escribir "Introduce el valor de J: "
+	Leer J
+	K<-A
+	A<-B
+	B<-C
+	C<-D
+	D<-E
+	E<-F
+	F<-G
+	G<-H
+	H<-I
+	I<-J
+	J<-K
+	Escribir "A vale: ", A " B vale: ", B " C vale: ", C " D vale: ", D " E vale: ", E " F vale: ", F " G vale: " , G " H vale: ", H " I vale: ", I " y J vale: " J 
+	
+FinAlgoritmo
